@@ -1,0 +1,2 @@
+# litebox
+Simple PHP framework
